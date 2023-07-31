@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iskren201 (Iskren Iliev)
-- 👀 I’m interested in Html/css/javascript , 
+- 👀 I am a student, studying information technology, I am interested in developing as a Web Devloper
 - 🌱 I’m currently learning javaScript 
 - 📫 How to reach me iskren201@gmail.com
 
