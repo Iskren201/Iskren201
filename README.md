@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Iskren Iliev
 
-##🚀 About Me
+## 🚀 About Me
 - Name: Iskren Iliev
 - University: New Bulgarian University
 - Major: Computer Science
