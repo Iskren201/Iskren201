@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iskren201&label=Profile%20views&color=0e75b6&style=flat-square" alt="iskren201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iskren201" alt="iskren201" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJs , NodeJs , C#**
 
 - 📫 How to reach me **iskren201@gmail.com**
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iskren201&show_icons=true&theme=tokyonight&title_color=fd0808&locale=en" alt="iskren201" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskren201&theme=highcontrast" alt="iskren201" /></p>
-
