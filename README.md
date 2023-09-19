@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **ReactJs , NodeJs , C#**
 
 - 📫 How to reach me **iskren201@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
