@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iskren201&show_icons=true&theme=tokyonight&title_color=fd0808&locale=en" alt="iskren201" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskren201&theme=highcontrast" alt="iskren201" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iskren201)](https://git.io/streak-stats)
