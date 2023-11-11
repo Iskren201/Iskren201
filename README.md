@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iskren201&label=Profile%20views&color=0e75b6&style=flat-square" alt="iskren201" /> </p>
 
-- 🌱 I’m currently learning **ReactJs , NodeJs , ExpressJs
+- 🌱 I’m currently learning **ReactJs , NodeJs , ExpressJs**
 
 - 📫 How to reach me **iskren201@gmail.com**
 <p align="left">
